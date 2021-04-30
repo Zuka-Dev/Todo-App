@@ -1,1 +1,1 @@
-http://192.168.8.174:5000/
+https://zuka-dev.github.io/Todo-App/
